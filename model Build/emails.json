@@ -1664,7 +1664,7 @@
   {"subject": "Internship", "body": "Writing to apply for the summer internship in finance. Attached are my details.", "label": "job application"},
   {"subject": "Candidate Profile", "body": "Hello, I want to apply for the HR trainee role. My CV is attached.", "label": "job application"},
   {"subject": "Formal Application", "body": "This email is my formal application for the Business Analyst post at your organization.", "label": "job application"},
-  {"subject": "Resume – Analyst", "body": "I am sending this as my application for the analyst role recently posted.", "label": "job application"},
+  {"subject": "Resume - Analyst", "body": "I am sending this as my application for the analyst role recently posted.", "label": "job application"},
   {"subject": "Job Opening", "body": "I am interested in applying for your open role in project coordination. Here is my resume.", "label": "job application"},
   {"subject": "Application", "body": "Kindly consider me for the data engineer role.", "label": "job application"},
   {"subject": "Applicant Interest", "body": "Hello, I would like to apply for the supply officer position. Documents attached.", "label": "job application"},
